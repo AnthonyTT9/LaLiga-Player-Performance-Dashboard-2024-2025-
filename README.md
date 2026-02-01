@@ -2,6 +2,7 @@
 
 This project analyzes LaLiga player performance for the 2024–2025 season using advanced football metrics normalized per 90 minutes. The goal is to identify elite performers, over/underperformers, and player archetypes across attacking, creative, dribbling, passing, and defensive dimensions.
 
+https://public.tableau.com/views/LaLigaPlayerPerformanceDashboard2024_2025_ver3-Copy/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ### Data Sources
 
 FBref (player-level statistics)
