@@ -1,0 +1,36 @@
+CREATE TABLE laliga.possesion_stats_24_25 (
+	rk int,
+	player varchar(100),
+	nation varchar(50),
+	pos varchar(10),
+	squad varchar(50),
+	age int,
+	born int,
+	ninety_s float,
+	touches int,
+	def_pen int,
+	def_3rd int,
+	mid_3rd int,
+	att_3rd int,
+	att_pen int,
+	live int,
+	take_on_att int,
+	succ int,
+	succ_pct_ float,
+	tkld int,
+	tkld_pct_ float,
+	carries int,
+	totdist int,
+	prgdist int,
+	prgc int,
+	final_3rd int,
+	cpa int,
+	mis int,
+	dis int,
+	rec int,
+	prgr int,
+	matches varchar(50)
+);
+	
+	
+	

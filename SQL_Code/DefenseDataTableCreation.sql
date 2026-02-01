@@ -1,0 +1,28 @@
+CREATE TABLE laliga.defense_stats_24_25(
+	rk int,
+	player varchar(100),
+	nation varchar(50),
+	pos varchar(10),
+	squad varchar(50),
+	age int,
+	born int,
+	ninety_s float,
+	tkl int,
+	tklw int,
+	def_3rd int,
+	mid_3rd int,
+	att_3rd int,
+	dribbl_tkl int,
+	att int,
+	tkl_pct_ float,
+	lost int,
+	blocks int,
+	sh int,
+	pass int,
+	int int,
+	tkl_plus_int int,
+	clr int,
+	err int,
+	matches varchar(50)
+);
+	

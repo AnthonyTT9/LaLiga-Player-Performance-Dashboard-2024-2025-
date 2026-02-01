@@ -1,0 +1,28 @@
+CREATE TABLE laliga.shooting_stats_24_25 (
+	rk varchar(50),
+	player varchar(100),
+	nation varchar(50),
+	pos varchar(10),
+	squad varchar(50),
+	age int,
+	born int,
+	ninety_s float,
+	gls int,
+	sh int,
+	sot int,
+	sot_pct_ float,
+	sh_per_90 float,
+	sot_per_90 float,
+	g_per_sh float,
+	dist float,
+	fk int,
+	pk int,
+	pkatt int,
+	xg float,
+	npxg float,
+	npxg_per_sh float,
+	g_minus_xg float,
+	npg_minus_xg float,
+	matches varchar(50)
+);
+
