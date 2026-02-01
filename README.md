@@ -11,6 +11,7 @@ FBref (player-level statistics)
     - General
     - Shooting
     - Passing
+    - Shot Creation
     - Possession
     - Defensive
 
